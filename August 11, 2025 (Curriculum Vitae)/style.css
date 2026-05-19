@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: lightblue;
+  margin: 30px;
+  margin: auto auto;
+  margin-top: 10%;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+header {
+  height: 120px;
+}
+header h1 {
+  display: flex;
+  justify-content: center;
+  color: darkslategray;
+  font-size: 90px;
+}
+nav {
+  background-color: darkslategrey;
+  height: 80px;
+}
+nav ul {
+  background-color: darkslategray;
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  font-size: 3.1rem;
+  color: white;
+  justify-content: space-between;
+  margin: 0 30px;
+}
+.aboutme {
+  margin-top: 10%;
+  margin: 10%;
+}
+.aboutmee img {
+  height: 300px;
+  border-radius: 30px;
+}
+.aboutmee p {
+  font-size: larger;
+  margin-top: 10px;
+}
+.points h1 {
+  background-color: darkslategray;
+  margin: auto auto;
+}
